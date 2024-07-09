@@ -11,7 +11,9 @@ a {
 ul {
     list-style: none;
 }
-
+body {
+    background:beige;
+}
 .container {
     max-width: 1140px;
     width: 100%;
